@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(135deg, #ffe6f0, #e6f7ff);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.game-box {
+  background: white;
+  width: 500px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+h1 {
+  color: #d63384;
+}
+
+.story {
+  font-size: 18px;
+}
+
+#door {
+  font-size: 90px;
+  margin: 25px;
+}
+
+button {
+  background: #ffcc00;
+  border: none;
+  padding: 12px 18px;
+  margin: 8px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #ff99cc;
+}
+
+#message {
+  color: #6f42c1;
+}
+
+#points {
+  font-weight: bold;
+}
